@@ -22,18 +22,6 @@ _Shuiying Xiang, Shuqing Jiang, Xiaosong Liu, Tao Zhang, Licun Yu_
 #### • \[2022 Neural Comput & Applic\] Conversion of Siamese networks to spiking neural networks for energy-efficient object tracking. [\[Link\]](https://link.springer.com/article/10.1007/s00521-022-06984-1#citeas)
 _Yihao Luo, Haibo Shen, Xiang Cao, Tianjiang Wang, Qi Feng, Zehan Tan_
 
-## arXiv Papers
-WIP
-
-## SNN Frameworks
-Wip
-
-## Vision Datasets and Benchmarks
-WIP
-
-## Selected papers on general SNN
-WIP
-
 ## Reference
 I'd like to thank [Awesome Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) for inspiring this Spiking-Vision paper collection.
 
