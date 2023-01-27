@@ -1,4 +1,5 @@
-# Spiking Neural Networks for Computer Vision
+# Spiking Neural Network + Computer Vision
+#### A collection of papers and works.
 
 ## Conference Papers
 
