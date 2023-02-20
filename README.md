@@ -1,5 +1,5 @@
 # Spike Vision
-Papers on Spiking Neural Networks (SNN) for Computer Vision (CV).
+Papers on Spiking Neural Networks (SNN) for Computer Vision (CV). Feel free to contribute by raising an Issue or creting a Pull request!
 
 ## Table of Content
  - [Conference Papers](#conference-papers)
@@ -32,6 +32,9 @@ _Shuiying Xiang, Shuqing Jiang, Xiaosong Liu, Tao Zhang, Licun Yu_
 
 #### • \[2022 Neural Comput & Applic\] Conversion of Siamese networks to spiking neural networks for energy-efficient object tracking. [\[Link\]](https://link.springer.com/article/10.1007/s00521-022-06984-1#citeas)
 _Yihao Luo, Haibo Shen, Xiang Cao, Tianjiang Wang, Qi Feng, Zehan Tan_
+
+#### • \[2021.8 Front. Neurosci.\] Spiking Autoencoders With Temporal Coding. [\[Link\]](https://www.frontiersin.org/articles/10.3389/fnins.2021.712667/full) [\[PDF\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8414972/pdf/fnins-15-712667.pdf) 
+_Iulia-Maria Comsa, Luca Versari, Thomas Fischbacher, Jyrki Alakuijala_
 
 
 ## arxiv Papers
@@ -69,4 +72,3 @@ I'd like to thank [Awesome Hand Pose Estimation](https://github.com/xinghaochen/
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Zhilin Guo](https://github.com/ZhilinGuo) has waived all copyright and related or neighboring rights to this work.
-
