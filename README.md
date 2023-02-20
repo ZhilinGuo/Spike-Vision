@@ -1,5 +1,5 @@
 # Spike Vision
-Papers on Spiking Neural Networks (SNN) for Computer Vision (CV). Feel free to contribute by raising an Issue or creting a Pull request!
+Papers on Spiking Neural Networks (SNN) for Computer Vision (CV). Feel free to contribute by raising an Issue or creating a Pull request!
 
 ## Table of Content
  - [Conference Papers](#conference-papers)
